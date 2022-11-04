@@ -32,7 +32,19 @@ eight
 nine
 ten
 one
+<<<<<<< HEAD
 two 
 three
 four
 five
+=======
+two
+three
+four
+five
+six 
+seven
+eight
+nine
+ten
+>>>>>>> one_one
